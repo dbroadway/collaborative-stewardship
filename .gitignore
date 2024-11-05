@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Large files / models
+*.h5
+*.pkl
+*.model
+models/
+
+# Specific to this project
+kaverai.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build artifacts
+build/
+dist/
+node_modules/
