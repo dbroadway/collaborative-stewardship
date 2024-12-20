@@ -3,6 +3,7 @@ import networkx as nx
 import random
 from scipy.spatial import Voronoi
 import numpy as np
+from shapely.geometry import Polygon, Point
 
 # Initialize Pygame
 pygame.init()
@@ -54,13 +55,39 @@ def generate_voronoi():
 def place_hubs():
     global positions
     positions.clear()
-    # Adjust hubs to be the center of their corresponding Voronoi region
-    for i, point in enumerate(vor.points[:num_hubs]):
-        G.add_node(i, 
-                   population=random.randint(1000, 50000), 
-                   resources=random.randint(50, 200),
-                   region=regions[i])
-        positions[i] = tuple(map(int, point))
+
+    for i, region_idx in enumerate(vor.point_region[:num_hubs]):
+        region = vor.regions[region_idx]
+
+        # Ensure the region is valid (no -1 indices)
+        if -1 in region or len(region) == 0:
+            continue
+
+        # Construct the polygon for this region
+        vertices = [vor.vertices[j] for j in region]
+        polygon = Polygon(vertices)
+
+        # Sample a random point within the polygon
+        while True:
+            # Generate a random point within the bounding box of the polygon
+            minx, miny, maxx, maxy = polygon.bounds
+            x = random.uniform(minx, maxx)
+            y = random.uniform(miny, maxy)
+            point = Point(x, y)
+
+            # Check if the point is inside the polygon
+            if polygon.contains(point):
+                positions[i] = (int(x), int(y))
+                break
+
+        # Add the node to the graph
+        if i not in G.nodes:
+            G.add_node(i)
+
+        # Update node attributes
+        G.nodes[i]['region'] = f"Region {i}"
+        G.nodes[i]['population'] = random.randint(1000, 50000)
+        G.nodes[i]['resources'] = random.randint(50, 200)
 
 # Add edges and initialize resource packets
 def add_edges():
