@@ -81,6 +81,10 @@ The global layer also maintains crucial technical standards enabling inter-hub c
 
 The CSM implements a sophisticated resource management system that distinguishes between different types of goods and services. Basic necessities \- food, water, housing, healthcare, education \- operate under a universal access model. This ensures that no member of society faces deprivation of fundamental needs.
 
+| ![Resource Cycles](images/Resource-Cycles.png) |
+|:--:|
+| *Figure 3: Resource Cycles in the Collaborative Stewardship Model. The three primary systems—Biomass, Energy, and Water—form an integrated network of regenerative cycles. Each system incorporates both traditional ecological practices and modern technological solutions, from regenerative agriculture to smart energy distribution. The central overlap represents the synergistic interaction between all systems, emphasizing the model's holistic approach to resource management.* |
+
 Common pool resources, such as forests, fisheries, and shared infrastructure, are managed through stewardship protocols derived from successful commons governance systems. These protocols combine traditional ecological knowledge with modern monitoring technologies and scientific understanding.
 
 Luxury items and non-essential goods function through a contribution credit system. Unlike traditional money, these credits cannot accumulate indefinitely and don't accrue interest, preventing the concentration of wealth that plagues current economic systems.
