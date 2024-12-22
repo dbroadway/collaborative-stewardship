@@ -77,13 +77,20 @@ The global layer also maintains crucial technical standards enabling inter-hub c
 
 ## 4\. Economic System
 
+The Collaborative Stewardship Model implements an innovative economic architecture that moves beyond traditional market-based systems while ensuring efficient resource distribution and incentivizing innovation. This framework distinguishes between different types of goods and services, applying varied distribution mechanisms based on their fundamental role in society and relationship to human needs. Figure 3 illustrates this tiered approach to economic organization, which forms the foundation for the model's resource management, production systems, and distribution mechanisms.
+
+| ![Economic Framework](images/Economic-Framework.png) |
+|:--:|
+| *Figure 3: Economic Framework of the Collaborative Stewardship Model. The pyramid structure represents a hierarchy of needs rather than power relations, illustrating how the economy is organized to serve human well-being. The base layer ensures universal access to basic necessities through a barrier-free distribution system. The middle layer demonstrates collective stewardship of common pool resources through sustainable management protocols. The top layer represents enhancement goods accessed through a contribution credit system that encourages innovation and cultural creation while preventing wealth accumulation. Icons represent key elements at each level, with the green gradient symbolizing the interconnected nature of all economic activities within the model.* |
+
+
 ### 4.1 Resource Management
 
 The CSM implements a sophisticated resource management system that distinguishes between different types of goods and services. Basic necessities \- food, water, housing, healthcare, education \- operate under a universal access model. This ensures that no member of society faces deprivation of fundamental needs.
 
 | ![Resource Cycles](images/Resource-Cycles.png) |
 |:--:|
-| *Figure 3: Resource Cycles in the Collaborative Stewardship Model. The three primary systems—Biomass, Energy, and Water—form an integrated network of regenerative cycles. Each system incorporates both traditional ecological practices and modern technological solutions, from regenerative agriculture to smart energy distribution. The central overlap represents the synergistic interaction between all systems, emphasizing the model's holistic approach to resource management.* |
+| *Figure 4: Resource Cycles in the Collaborative Stewardship Model. The three primary systems—Biomass, Energy, and Water—form an integrated network of regenerative cycles. Each system incorporates both traditional ecological practices and modern technological solutions, from regenerative agriculture to smart energy distribution. The central overlap represents the synergistic interaction between all systems, emphasizing the model's holistic approach to resource management.* |
 
 Common pool resources, such as forests, fisheries, and shared infrastructure, are managed through stewardship protocols derived from successful commons governance systems. These protocols combine traditional ecological knowledge with modern monitoring technologies and scientific understanding.
 
@@ -174,6 +181,10 @@ Energy systems emphasize both efficiency and clean production. Each hub develops
 ### 8.1 Transition Phases
 
 The transition to a CSM society follows a carefully planned yet adaptable pathway. The first phase (Years 1-5) focuses on establishing pilot communities that demonstrate the model's viability. These communities serve as learning laboratories, developing and testing key technologies and social practices.
+
+| ![Implementation Phases](images/Implementation-Phases.png) |
+|:--:|
+| *Figure 5: Implementation Phases of the Collaborative Stewardship Model. The transition from isolated pilot communities to a globally integrated network occurs over three phases: establishment of independent pilot communities (Years 0-5), development of regional networks and knowledge sharing (Years 5-10), and full global integration while maintaining local autonomy (Years 10-20). Green circles represent individual communities, connecting lines show resource and knowledge sharing pathways, and larger blue circles indicate regional coordination networks.* |
 
 During the second phase (Years 5-10), successful practices spread through regional networks. This phase emphasizes scaling solutions while maintaining their effectiveness. Research on successful scaling of social innovations guides this process (Westley et al., 2019).
 
