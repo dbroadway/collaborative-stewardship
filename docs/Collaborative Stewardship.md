@@ -194,6 +194,10 @@ The final phase (Years 10-20) involves global integration of the model. This doe
 
 The CSM requires sophisticated technological infrastructure, but much of it already exists or is in advanced development. Distributed ledger systems provide transparent resource tracking. AI optimization tools help match resources to needs. Clean energy technologies enable sustainable power generation.
 
+| ![Technology Stack](images/Technology-Stack.png) |
+|:--:|
+| *Figure X: CSM Technology Stack showing the three integrated layers of infrastructure enabling the Collaborative Stewardship Model. The Physical Infrastructure Layer provides the foundational hardware and facilities. The Data Processing Layer manages information flows and resource optimization. The Community Interface Layer enables participatory decision-making and resource management through user-facing tools and platforms. Vertical connections illustrate data flows and system integration points between layers.* |
+
 Digital democracy platforms facilitate participatory decision-making at scale. These systems build on existing technologies while adding features for consensus-building and conflict resolution. Research in collective intelligence systems informs their design (Malone & Bernstein, 2022).
 
 ### 8.3 Social Adaptation
@@ -206,7 +210,11 @@ Cultural integration receives particular attention. Rather than imposing a singl
 
 ### 9.1 Success Indicators
 
-The CSM employs a sophisticated system of metrics that goes beyond traditional economic indicators. These metrics track multiple dimensions of social and ecological health:
+The CSM employs a sophisticated system of metrics that goes beyond traditional economic indicators. These metrics track multiple dimensions of social and ecological health.
+
+| ![System Dynamics](images/System-Dynamics.png) |
+|:--:|
+| *Figure X: System Dynamics of the Collaborative Stewardship Model. This diagram illustrates the key interactions between core metrics in the CSM system. Green arrows indicate positive relationships, red arrows indicate negative relationships, and purple arrows show complex bidirectional interactions. Resources and Environmental Health form a central complex relationship, while Population exerts negative pressure on Resources. Happiness and Social Cohesion create positive feedback loops that strengthen sustainability practices. The system demonstrates both resilience through multiple feedback paths and constraints through resource limitations and environmental carrying capacity.* |
 
 Resource sustainability measures both stock levels and regeneration rates. Unlike GDP, which treats resource depletion as positive growth, these metrics account for long-term availability and ecosystem health.
 
