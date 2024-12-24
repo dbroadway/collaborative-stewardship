@@ -20,7 +20,13 @@ Recent successful experiments with similar approaches \- from the Mondragón Coo
 
 ### 2.1 Decentralized Autonomy
 
-The foundation of CSM rests on networks of semi-autonomous Resilience Hubs. Unlike the rigid hierarchies of traditional governance systems, these hubs operate through dynamic, overlapping spheres of influence. Each hub maintains significant autonomy in local decision-making while participating in larger coordinating structures for issues that transcend local boundaries.
+The foundation of CSM rests on networks of semi-autonomous Resilience Hubs. Unlike the rigid hierarchies of traditional governance systems, these hubs operate through dynamic, overlapping spheres of influence. 
+
+| ![Coordination Scales](images/Coordination-Scales.png) |
+|:--:|
+| *Figure 2: Scales of Coordination in the CSM. The system handles most decisions at the lowest effective level, with broader coordination required only for issues affecting larger geographic areas or requiring system-wide alignment. Examples show characteristic activities at each scale, from local urgent care to global climate initiatives.* |
+
+Each hub maintains significant autonomy in local decision-making while participating in larger coordinating structures for issues that transcend local boundaries.
 
 Research in complex adaptive systems demonstrates that such distributed networks often outperform centralized systems in resilience and adaptability (Meadows, 2008). When one component faces challenges, the network can quickly reorganize to maintain essential functions. This principle appears throughout nature, from neural networks to mycorrhizal fungi, and provides a time-tested template for human organization.
 
@@ -44,7 +50,7 @@ Modern technologies enable unprecedented coordination capabilities. Distributed 
 
 | ![Collaborative Stewardship Diagram](images/System-Overview-Diagram.png) |
 |:--:|
-| *Figure 1: Organizational Structure of the Collaborative Stewardship Model showing the nested relationships between Resilience Hubs, Regional Networks, and Global Coordination.* |
+| *Figure 3: Organizational Structure of the Collaborative Stewardship Model showing the nested relationships between Resilience Hubs, Regional Networks, and Global Coordination.* |
 
 
 ### 3.1 Resilience Hubs
@@ -53,7 +59,7 @@ Resilience Hubs form the foundational units of social organization in the CSM. T
 
 | ![Resilience Hub Structure](images/Resilience-Hub-Structure.png) |
 |:--:|
-| *Figure 2: Resilience Hub Structure depicting a community of 5,000-50,000 residents organized within natural bioregional boundaries. The hub integrates participatory governance (shown by the central rotation system), residential clusters, sustainable infrastructure, and ecological systems including wildlife corridors and natural water features. This decentralized structure enables local autonomy while maintaining connectivity with broader regional networks through shared resource management and administrative systems.* |
+| *Figure 4: Resilience Hub Structure depicting a community of 5,000-50,000 residents organized within natural bioregional boundaries. The hub integrates participatory governance (shown by the central rotation system), residential clusters, sustainable infrastructure, and ecological systems including wildlife corridors and natural water features. This decentralized structure enables local autonomy while maintaining connectivity with broader regional networks through shared resource management and administrative systems.* |
 
 Each hub's geographic boundaries align with natural bioregional features, acknowledging the intimate connection between human communities and their local ecosystems. This approach, drawing from bioregional theory (Sale, 2019), helps ensure ecological sustainability while promoting local resource self-sufficiency.
 
@@ -81,7 +87,7 @@ The Collaborative Stewardship Model implements an innovative economic architectu
 
 | ![Economic Framework](images/Economic-Framework.png) |
 |:--:|
-| *Figure 3: Economic Framework of the Collaborative Stewardship Model. The pyramid structure represents a hierarchy of needs rather than power relations, illustrating how the economy is organized to serve human well-being. The base layer ensures universal access to basic necessities through a barrier-free distribution system. The middle layer demonstrates collective stewardship of common pool resources through sustainable management protocols. The top layer represents enhancement goods accessed through a contribution credit system that encourages innovation and cultural creation while preventing wealth accumulation. Icons represent key elements at each level, with the green gradient symbolizing the interconnected nature of all economic activities within the model.* |
+| *Figure 5: Economic Framework of the Collaborative Stewardship Model. The pyramid structure represents a hierarchy of needs rather than power relations, illustrating how the economy is organized to serve human well-being. The base layer ensures universal access to basic necessities through a barrier-free distribution system. The middle layer demonstrates collective stewardship of common pool resources through sustainable management protocols. The top layer represents enhancement goods accessed through a contribution credit system that encourages innovation and cultural creation while preventing wealth accumulation. Icons represent key elements at each level, with the green gradient symbolizing the interconnected nature of all economic activities within the model.* |
 
 
 ### 4.1 Resource Management
@@ -90,7 +96,7 @@ The CSM implements a sophisticated resource management system that distinguishes
 
 | ![Resource Cycles](images/Resource-Cycles.png) |
 |:--:|
-| *Figure 4: Resource Cycles in the Collaborative Stewardship Model. The three primary systems—Biomass, Energy, and Water—form an integrated network of regenerative cycles. Each system incorporates both traditional ecological practices and modern technological solutions, from regenerative agriculture to smart energy distribution. The central overlap represents the synergistic interaction between all systems, emphasizing the model's holistic approach to resource management.* |
+| *Figure 6: Resource Cycles in the Collaborative Stewardship Model. The three primary systems—Biomass, Energy, and Water—form an integrated network of regenerative cycles. Each system incorporates both traditional ecological practices and modern technological solutions, from regenerative agriculture to smart energy distribution. The central overlap represents the synergistic interaction between all systems, emphasizing the model's holistic approach to resource management.* |
 
 Common pool resources, such as forests, fisheries, and shared infrastructure, are managed through stewardship protocols derived from successful commons governance systems. These protocols combine traditional ecological knowledge with modern monitoring technologies and scientific understanding.
 
@@ -184,7 +190,7 @@ The transition to a CSM society follows a carefully planned yet adaptable pathwa
 
 | ![Implementation Phases](images/Implementation-Phases.png) |
 |:--:|
-| *Figure 5: Implementation Phases of the Collaborative Stewardship Model. The transition from isolated pilot communities to a globally integrated network occurs over three phases: establishment of independent pilot communities (Years 0-5), development of regional networks and knowledge sharing (Years 5-10), and full global integration while maintaining local autonomy (Years 10-20). Green circles represent individual communities, connecting lines show resource and knowledge sharing pathways, and larger blue circles indicate regional coordination networks.* |
+| *Figure 7: Implementation Phases of the Collaborative Stewardship Model. The transition from isolated pilot communities to a globally integrated network occurs over three phases: establishment of independent pilot communities (Years 0-5), development of regional networks and knowledge sharing (Years 5-10), and full global integration while maintaining local autonomy (Years 10-20). Green circles represent individual communities, connecting lines show resource and knowledge sharing pathways, and larger blue circles indicate regional coordination networks.* |
 
 During the second phase (Years 5-10), successful practices spread through regional networks. This phase emphasizes scaling solutions while maintaining their effectiveness. Research on successful scaling of social innovations guides this process (Westley et al., 2019).
 
@@ -196,7 +202,7 @@ The CSM requires sophisticated technological infrastructure, but much of it alre
 
 | ![Technology Stack](images/Technology-Stack.png) |
 |:--:|
-| *Figure X: CSM Technology Stack showing the three integrated layers of infrastructure enabling the Collaborative Stewardship Model. The Physical Infrastructure Layer provides the foundational hardware and facilities. The Data Processing Layer manages information flows and resource optimization. The Community Interface Layer enables participatory decision-making and resource management through user-facing tools and platforms. Vertical connections illustrate data flows and system integration points between layers.* |
+| *Figure 8: CSM Technology Stack showing the three integrated layers of infrastructure enabling the Collaborative Stewardship Model. The Physical Infrastructure Layer provides the foundational hardware and facilities. The Data Processing Layer manages information flows and resource optimization. The Community Interface Layer enables participatory decision-making and resource management through user-facing tools and platforms. Vertical connections illustrate data flows and system integration points between layers.* |
 
 Digital democracy platforms facilitate participatory decision-making at scale. These systems build on existing technologies while adding features for consensus-building and conflict resolution. Research in collective intelligence systems informs their design (Malone & Bernstein, 2022).
 
@@ -214,7 +220,7 @@ The CSM employs a sophisticated system of metrics that goes beyond traditional e
 
 | ![System Dynamics](images/System-Dynamics.png) |
 |:--:|
-| *Figure X: System Dynamics of the Collaborative Stewardship Model. This diagram illustrates the key interactions between core metrics in the CSM system. Green arrows indicate positive relationships, red arrows indicate negative relationships, and purple arrows show complex bidirectional interactions. Resources and Environmental Health form a central complex relationship, while Population exerts negative pressure on Resources. Happiness and Social Cohesion create positive feedback loops that strengthen sustainability practices. The system demonstrates both resilience through multiple feedback paths and constraints through resource limitations and environmental carrying capacity.* |
+| *Figure 9: System Dynamics of the Collaborative Stewardship Model. This diagram illustrates the key interactions between core metrics in the CSM system. Green arrows indicate positive relationships, red arrows indicate negative relationships, and purple arrows show complex bidirectional interactions. Resources and Environmental Health form a central complex relationship, while Population exerts negative pressure on Resources. Happiness and Social Cohesion create positive feedback loops that strengthen sustainability practices. The system demonstrates both resilience through multiple feedback paths and constraints through resource limitations and environmental carrying capacity.* |
 
 Resource sustainability measures both stock levels and regeneration rates. Unlike GDP, which treats resource depletion as positive growth, these metrics account for long-term availability and ecosystem health.
 
