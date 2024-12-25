@@ -52,6 +52,11 @@ The effectiveness of any social system ultimately rests not just on its structur
 
 The Collaborative Stewardship Model addresses these age-old challenges not through moral pronouncements or coercive control, but through thoughtful system design that naturally encourages virtuous behavior. This approach draws inspiration from diverse spiritual and philosophical traditions while remaining firmly grounded in contemporary understanding of human psychology and social dynamics.
 
+| ![Virtuous Behavior Diagram](images/Virtuous-Behavior.png) |
+|:--:|
+| *Figure X: System Design Elements and Their Influence on Virtuous Behavior. The CSM's structural elements (top) naturally promote virtuous outcomes (bottom) through inherent system design rather than external enforcement.* |
+
+
 Consider how virtually every major philosophical and religious tradition warns against excessive accumulation and promotes collective wellbeing. The Buddhist principle of non-attachment (aparigraha in Hindu traditions) finds expression in the CSM's prevention of unlimited resource accumulation. Islamic teachings on zakat (mandatory charitable giving) parallel the model's resource-sharing mechanisms. The Confucian emphasis on social harmony and reciprocity manifests in the hub's cooperative governance structure. Indigenous peoples' deep understanding of environmental stewardship mirrors the model's ecological integration. Even the Christian concept of stewardship over ownership reinforces the model's approach to resource management.
 
 The modern era of hyperconsumption has brought these ancient warnings into sharp relief. Today's ultra-wealthy demonstrate patterns of behavior that philosophers and spiritual teachers have long identified as destructive both to individual character and social cohesion. The CSM's structure specifically addresses these tendencies:
@@ -113,7 +118,13 @@ The global layer also maintains critical technical standards enabling inter-hub 
 
 The principles underlying the Collaborative Stewardship Model find powerful validation in the world's Blue Zones - longevity hotspots where people routinely live into their 90s and often past 100 with remarkable health and vitality. These communities, discovered and documented through extensive research by Dan Buettner and his team, provide living evidence that the core elements of the CSM align naturally with optimal human flourishing.
 
-What makes these Blue Zones relevant to the CSM isn't just their impressive health outcomes, but how they achieve them. Without elaborate planning or external intervention, these communities have organically developed social structures and lifestyle patterns that mirror key CSM principles. Their success offers both validation and valuable insights.
+What makes these Blue Zones relevant to the CSM isn't just their impressive health outcomes, but how they achieve them. Without elaborate planning or external intervention, these communities have organically developed social structures and lifestyle patterns that mirror key CSM principles. 
+
+| ![Blue Zone Parallels](images/Blue-Zone.png) |
+|:--:|
+| *Figure X: Parallels Between Blue Zone Characteristics and CSM Features. Traditional Blue Zone social structures (left) find modern expression in corresponding CSM design elements (right), demonstrating how the model builds upon proven patterns of human flourishing.* |
+
+Their success offers both validation and valuable insights.
 
 Consider Okinawa, Japan, where the moai system of mutual support groups provides a natural template for CSM hub organization. These groups, typically comprising 5-7 individuals, meet regularly for social connection, mutual aid, and shared decision-making. The moai demonstrate how small-scale social structures can create resilient support systems while promoting individual wellbeing. Research by Bradley Willcox and colleagues shows how this social integration correlates strongly with both longevity and life satisfaction.
 
