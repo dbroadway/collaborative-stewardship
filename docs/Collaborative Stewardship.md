@@ -1,4 +1,4 @@
-# A Blueprint for Collaborative Stewardship: A Post-Scarcity Societal Model
+# A Blueprint for Collaborative Stewardship: A Framework for Sustainable Community Design
 
 ***<p style="text-align:center;">Dan Broadway
 Kemattia LLC
