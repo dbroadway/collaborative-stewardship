@@ -1,6 +1,11 @@
-# Collaborative Stewardship Model Simulation
+# Collaborative Stewardship Model
 
-## Overview
+## Documentation
+
+- [Executive Summary](docs/Collaborative%20Stewardship%20Executive%20Summary.md)
+- [Full Paper](docs/Collaborative%20Stewardship.md)
+
+## Simulation Overview
 
 This project simulates a Collaborative Stewardship society, modeling the interactions between multiple "Resilience Hubs" in a post-capitalist, environmentally-conscious world. The simulation explores how communities might balance resource management, population growth, environmental health, and social factors in a sustainable system.
 
