@@ -1,4 +1,4 @@
-# Collaborative Stewardship Simulation
+# Collaborative Stewardship Model Simulation
 
 ## Overview
 
